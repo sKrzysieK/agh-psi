@@ -1,1 +1,1 @@
-"# agh-psi" 
+# agh-psi
